@@ -1,7 +1,9 @@
 ### Relógio
 
-Se atualiza a cada segundo;
+Se atualiza a cada segundo;\
+Há três códigos em Javascript para exemplificar maneiras diferentes de resolver o exercício.\
+Cada um demonstra um nível de expertise dentro da sintaxe da linguagem.
 
-Conceitos e práticas de JavaScript básico e puro (Vanilla JS).<em>
+Conceitos e práticas de JavaScript básico e puro (Vanilla JS).
 
-<em>Faça o Fork para aprendizado, pois esta é parte do básico para lidar com a lógica de programação no <strong>Front-End</strong><em>.
+*Faça o Fork para aprendizado, pois esta é parte do básico para lidar com a lógica de programação no **Front-End***.
